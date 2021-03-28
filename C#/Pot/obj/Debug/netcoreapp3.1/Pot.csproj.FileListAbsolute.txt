@@ -1,0 +1,13 @@
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.exe
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.deps.json
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.runtimeconfig.json
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.runtimeconfig.dev.json
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.dll
+C:\Users\Skynet\Documents\Kattis\C#\Pot\bin\Debug\netcoreapp3.1\Pot.pdb
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.csprojAssemblyReference.cache
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.AssemblyInfoInputs.cache
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.AssemblyInfo.cs
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.dll
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.pdb
+C:\Users\Skynet\Documents\Kattis\C#\Pot\obj\Debug\netcoreapp3.1\Pot.genruntimeconfig.cache
