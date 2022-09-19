@@ -1,0 +1,16 @@
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.exe
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.deps.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.dev.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\ref\Hello_World.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\bin\Debug\net5.0\Hello_World.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.csproj.AssemblyReference.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfoInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfo.cs
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\ref\Hello_World.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Hello_World\obj\Debug\net5.0\Hello_World.genruntimeconfig.cache
