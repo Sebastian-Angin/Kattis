@@ -1,5 +1,6 @@
 Open correct foler and create .kt file.
 
+
 Use CodeRunner to run the script
 
 fun main() {}
@@ -18,3 +19,6 @@ fun main() {}
         println(output);
         line = readLine()
     }
+
+
+ 
