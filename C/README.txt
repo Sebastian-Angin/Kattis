@@ -4,6 +4,7 @@ Right click and press run program.
 
 Need to have:
 
+#include <stdio.h>
 int main(){}
 
 To read files use this:

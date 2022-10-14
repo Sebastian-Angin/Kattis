@@ -2,6 +2,11 @@ Create a file with .cpp
 
 Run file with Coderunner
 
+need to have:
+#include <iostream>
+using namespace std;
+int main() {return 0;}
+
 Read txt file:
 
 ifstream inFile;
