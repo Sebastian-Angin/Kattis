@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jack-O'-Lantern Juxtaposition/1.0.0": {
+        "runtime": {
+          "Jack-O'-Lantern Juxtaposition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jack-O'-Lantern Juxtaposition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

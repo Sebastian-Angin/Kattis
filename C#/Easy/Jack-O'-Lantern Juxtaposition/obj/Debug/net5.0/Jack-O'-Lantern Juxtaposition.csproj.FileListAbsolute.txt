@@ -1,0 +1,16 @@
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.csproj.AssemblyReference.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.AssemblyInfoInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.AssemblyInfo.cs
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.csproj.CoreCompileInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.exe
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.deps.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.runtimeconfig.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.runtimeconfig.dev.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\ref\Jack-O'-Lantern Juxtaposition.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\bin\Debug\net5.0\Jack-O'-Lantern Juxtaposition.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\ref\Jack-O'-Lantern Juxtaposition.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Jack-O'-Lantern Juxtaposition\obj\Debug\net5.0\Jack-O'-Lantern Juxtaposition.genruntimeconfig.cache
