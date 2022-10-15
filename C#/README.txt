@@ -9,6 +9,8 @@ string line;
 while ((line = Console.ReadLine()) != null)
             {put the entire code here}
 
+Console.WriteLine(output);
+
 To read text from files:
 
 string inputFile = @"Path to file";

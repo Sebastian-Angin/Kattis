@@ -2,6 +2,13 @@ Open the folder, create a file with .java extension.
 
 Run the file via the run text on main.
 
+Need to have:
+public class NAME
+{
+    public static void main(String[] args) throws Exception
+    {}
+}
+
 To read file use:
 File inputFile = new File("C:/Users/zeb_a/Documents/Kattis/Java/Easy/FYI/fyi/a001.in");
 Scanner sc = new Scanner(inputFile);
@@ -17,10 +24,6 @@ For Kattis:
             {
                 // Get the input, spit it after the first three digits and then compaire it printing 1 or 0 depending on the number.
                 input = sc.nextLine();
-                firstThree = input.substring(0, 3);
-
-                if(firstThree.equals("555")) output = "1";
-                else output = "0";
                 System.out.println(output);
             }
             sc.close();
