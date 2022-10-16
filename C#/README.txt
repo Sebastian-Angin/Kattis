@@ -5,9 +5,12 @@ To run program use: dotnet run
 string inputFile = @"C:\Users\zeb_a\Documents\Kattis\C#\Easy\FIY\fyi\a002.in";
 
 To read files from Kattis:
-string line;
-while ((line = Console.ReadLine()) != null)
-            {put the entire code here}
+string input;
+while ((input = Console.ReadLine()) != null)
+{
+string[] split = line.Split(new char[] {' '}, StringSplitOptions.None);
+put the entire code here
+}
 
 Console.WriteLine(output);
 

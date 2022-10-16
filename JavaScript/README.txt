@@ -30,6 +30,10 @@ rl.on('line', (line) => {
     var input = line;
     var firstThree = input.slice(0,3);
 
+	var nums = line.split(' ');
+    var a = parseInt(nums[0]);
+    var b = parseInt(nums[1]);
+
     if(firstThree === "555"){console.log("1");}
     else {console.log("0");}
 });
