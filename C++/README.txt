@@ -26,4 +26,6 @@ ifstream inFile;
 inFile.close();
 
 Kattis:
-while (cin >> input) {cout << output << endl}
+string input;
+long long input1, input2 ....
+while (cin >> input1 >> input2) {cout << output << endl}
