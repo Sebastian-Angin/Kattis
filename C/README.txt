@@ -36,4 +36,6 @@ FILE *textfile;
 
 For Kattis use this:
 %s is for string, %d int. Increse 1 depending on how many inputs there are.
+char input[50];
+long long input1, input2 ....
 while (scanf("%s", inputText) == 1){}
