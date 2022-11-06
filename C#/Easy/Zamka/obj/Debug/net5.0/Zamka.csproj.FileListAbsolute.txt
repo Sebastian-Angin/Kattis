@@ -1,0 +1,16 @@
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.exe
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.deps.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.runtimeconfig.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.runtimeconfig.dev.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\ref\Zamka.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\bin\Debug\net5.0\Zamka.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.csproj.AssemblyReference.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.AssemblyInfoInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.AssemblyInfo.cs
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.csproj.CoreCompileInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\ref\Zamka.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Zamka\obj\Debug\net5.0\Zamka.genruntimeconfig.cache
