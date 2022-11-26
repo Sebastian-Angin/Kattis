@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb8DagoMxCP/GAQrdL1ZELKWWOgyBGKQC3PMsuse2jNyL939AdVWpcmMe5GmC/OqIUn2+ldlmuKLZC1SARMKGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeb_a\\Documents\\Kattis\\C#\\Easy\\Volim\\Volim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeb_a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

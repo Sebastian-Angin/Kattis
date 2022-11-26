@@ -1,0 +1,16 @@
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.exe
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.deps.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.runtimeconfig.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.runtimeconfig.dev.json
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\bin\Debug\net5.0\Volim.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.csproj.AssemblyReference.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.AssemblyInfoInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.AssemblyInfo.cs
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.csproj.CoreCompileInputs.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\refint\Volim.dll
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.pdb
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\Volim.genruntimeconfig.cache
+C:\Users\zeb_a\Documents\Kattis\C#\Easy\Volim\obj\Debug\net5.0\ref\Volim.dll
