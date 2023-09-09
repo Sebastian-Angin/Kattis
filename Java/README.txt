@@ -1,3 +1,27 @@
+import java.util.Scanner;
+
+/**
+ * finding_an_a
+ */
+public class finding_an_a
+{
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner(System.in);
+        String output, input;
+        System.out.println("Starting");
+       
+        while(sc.hasNextLine())// sc.hasNextLong)
+        {
+            // Get the input, spit it after the first three digits and then compaire it printing 1 or 0 depending on the number.
+            input = sc.nextLine();
+            output = input;
+            System.out.println(output);
+        }
+        sc.close();
+    }
+}
+
 Open the folder, create a file with .java extension.
 
 Run the file via the run text on main.
