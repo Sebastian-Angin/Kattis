@@ -15,7 +15,7 @@ public class ReadLocalFiles
 
     void setInputFile ()
     {
-        inputFile = new File(String.format("C:/Users/zeb_a/Documents/Kattis/Java/Easy/%s/data/%d.in",folder, index));
+        inputFile = new File(String.format("",folder, index));
     }
 
 
